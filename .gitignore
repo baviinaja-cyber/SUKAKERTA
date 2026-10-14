@@ -1,0 +1,6 @@
+.env
+/config/local.php
+/storage/*
+!/storage/.gitkeep
+/vendor/
+*.log
